@@ -9,7 +9,7 @@ on:
       - LICENSE
       - README.md
   
-  workflow_dispatch:
+  #workflow_dispatch:
 
 defaults:
   run:
